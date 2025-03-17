@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="575ca6ee-b3ba-431f-9e7f-4b4a92e6a1e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/queries.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/queries.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/routes/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/routes/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEnd/public/javascripts/scriptsClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/public/javascripts/scriptsClient.js" afterDir="false" />
-    </list>
+    <list default="true" id="575ca6ee-b3ba-431f-9e7f-4b4a92e6a1e6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "43357cc1",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/brylo/OneDrive/Desktop/ideaProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,7 +66,7 @@
       <updated>1742190499391</updated>
       <workItem from="1742190500451" duration="2537000" />
       <workItem from="1742193531288" duration="1046000" />
-      <workItem from="1742194650386" duration="3161000" />
+      <workItem from="1742194650386" duration="3604000" />
     </task>
     <servers />
   </component>
