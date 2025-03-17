@@ -4,22 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="575ca6ee-b3ba-431f-9e7f-4b4a92e6a1e6" name="Changes" comment="" />
+    <list default="true" id="575ca6ee-b3ba-431f-9e7f-4b4a92e6a1e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/queries.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/queries.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/routes/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/routes/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/public/javascripts/scriptsClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/public/javascripts/scriptsClient.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FrontEnd" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2uQp8f7SJLlVlvgwcTOD2gQ84gb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,14 +38,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/brylo/OneDrive/Desktop/8 семестр/a/ideaProject",
+    "git-widget-placeholder": "43357cc1",
+    "last_opened_file_path": "C:/Users/brylo/OneDrive/Desktop/ideaProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -46,7 +59,7 @@
         <env name="DEBUG" value="backend:*" />
       </envs>
       <EXTENSION ID="com.jetbrains.nodejs.run.NodeStartBrowserRunConfigurationExtension">
-        <browser start="true" url="http://localhost:3000" />
+        <browser start="true" url="http://localhost:3000/login" />
       </EXTENSION>
       <method v="2" />
     </configuration>
@@ -60,6 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1742190499391</updated>
       <workItem from="1742190500451" duration="2537000" />
+      <workItem from="1742193531288" duration="1046000" />
+      <workItem from="1742194650386" duration="3161000" />
     </task>
     <servers />
   </component>
