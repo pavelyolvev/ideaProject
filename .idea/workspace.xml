@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="575ca6ee-b3ba-431f-9e7f-4b4a92e6a1e6" name="Changes" comment="" />
+    <list default="true" id="575ca6ee-b3ba-431f-9e7f-4b4a92e6a1e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FrontEnd" />
@@ -29,9 +39,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/brylo/OneDrive/Desktop/ideaProject",
+    "last_opened_file_path": "C:/Users/brylo/OneDrive/Desktop/ideaProject/BackEnd/fonts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,13 +57,19 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brylo\OneDrive\Desktop\ideaProject\BackEnd\fonts" />
+      <recent name="C:\Users\brylo\OneDrive\Desktop\ideaProject\BackEnd\routes" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="www" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$/BackEnd">
       <envs>
         <env name="DEBUG" value="backend:*" />
       </envs>
       <EXTENSION ID="com.jetbrains.nodejs.run.NodeStartBrowserRunConfigurationExtension">
-        <browser start="true" url="http://localhost:3000/login" />
+        <browser url="http://localhost:3000/login" />
       </EXTENSION>
       <method v="2" />
     </configuration>
@@ -66,11 +84,24 @@
       <updated>1742190499391</updated>
       <workItem from="1742190500451" duration="2537000" />
       <workItem from="1742193531288" duration="1046000" />
-      <workItem from="1742194650386" duration="3604000" />
+      <workItem from="1742194650386" duration="5434000" />
+      <workItem from="1742467429970" duration="362000" />
+      <workItem from="1742468743488" duration="149488000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
